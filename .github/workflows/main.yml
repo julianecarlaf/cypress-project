@@ -16,7 +16,7 @@ jobs:
         #run: npm install
       - name: Cypress run
         uses: cypress-io/github-action@v6
-        with:
+       # with:
          
          # build: npm run build
          # start: npm start
